@@ -10,11 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/Natallitu/frontend-project-lvl1.git"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Natallitu/frontend-project-lvl1/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/Natallitu/frontend-project-lvl1#readme",
   "dependencies": {
     "http-server": "^14.1.1"
