@@ -21,6 +21,7 @@
   "type": "module",
   "homepage": "https://github.com/Natallitu/frontend-project-lvl1#readme",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "readline-sync": "^1.4.10"
   }
 }
